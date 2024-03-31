@@ -15,6 +15,6 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangfeng20&repo=boss_batch_push&bg_color=0,69d8d9,c2ce58,c38fdc&theme=graywhite)](https://github.com/yangfeng20/boss_batch_push)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangfeng20&repo=git_config&bg_color=0,69d8d9,c2ce58,c38fdc&theme=graywhite)](https://github.com/yangfeng20/git_config)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangfeng20&repo=smart-config&bg_color=0,69d8d9,c2ce58,c38fdc&theme=graywhite)](https://github.com/yangfeng20/smart-config)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangfeng20&repo=peek_request_header&bg_color=0,69d8d9,c2ce58,c38fdc&theme=graywhite)](https://github.com/yangfeng20/peek_request_header)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangfeng20&repo=java-agent-demo&bg_color=0,69d8d9,c2ce58,c38fdc&theme=graywhite)](https://github.com/yangfeng20/java-agent-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangfeng20&repo=model-transition&bg_color=0,69d8d9,c2ce58,c38fdc&theme=graywhite)](https://github.com/yangfeng20/model-transition)

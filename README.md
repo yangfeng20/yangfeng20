@@ -3,9 +3,11 @@
 ---
 
 - 💻 主业Java程序员，喜欢探究技术，也会编写其他语言，写脚本
-- 🚀 开源多个项目，包含段不限于：Idea插件，浏览器插件，油猴插件
+- 🚀 开源多个项目，包含但不限于：Idea插件，浏览器插件，油猴插件
 - 📺 b站: [闭关修炼啊哈](https://space.bilibili.com/386045526)
 - 📟 脚本网站：[智能课程](http://smartcourse.ltd/)
+- ⚔️ 单机Apollo：[Smart-Config](https://github.com/yangfeng20/smart-config)
+- 🎯 Boss脚本：[Boss批量投简历自定义招呼](https://github.com/yangfeng20/boss_batch_push)
 - ⭐ 如果项目对你有帮助，记得点个start哟 ⭐
 
 ---

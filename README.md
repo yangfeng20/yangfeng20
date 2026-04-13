@@ -23,6 +23,10 @@
 
 ### 🎯 项目矩阵
 
+[![灵感回路](https://img.shields.io/badge/💡-灵感回路-2196F3)](https://idealoop.top)  
+`灵感回路` | `AI时代` | `独立开发者` | `idealoop` | ` 创业探索者`
+- [idealoop.top（灵感回路）: 一个面向 AI 时代独立开发者、创业者与副业探索者的 Idea 发现、评估与讨论社区](https://idealoop.top)
+
 [![AI-Job](https://img.shields.io/badge/🤖-AI工作猎手-2196F3)](https://github.com/yangfeng20/ai-job)  
 `AI大模型赋能` | `7×24智能对话` | `精准投递` | `AI坐席` | `拒绝挽留`
 - [DeepSeek 7x24小时自动撩HR实战教学！](https://github.com/yangfeng20/ai-job)

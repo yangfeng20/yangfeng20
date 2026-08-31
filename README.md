@@ -40,11 +40,11 @@
 
 
 
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=yangfeng20&hide_title=true&show_icons=true&theme=dracula&count_private=true&bg_color=0,76a6a7,c2ce58,d9ac8a&locale=cn"/><img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangfeng20&hide_title=true&&exclude_repo=spring&layout=compact&bg_color=0,69d8d9,c2ce58,c38fdc&theme=graywhite&locale=cn" />
+<img align="top" height="160" src="https://github-stats-extended.vercel.app/api?username=yangfeng20&hide_title=true&show_icons=true&theme=dracula&count_private=true&bg_color=0,76a6a7,c2ce58,d9ac8a&locale=cn"/><img align="top" height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yangfeng20&hide_title=true&exclude_repo=spring&layout=compact&langs_count=7&bg_color=0,69d8d9,c2ce58,c38fdc&theme=graywhite&locale=cn" />
 
 ---
 
-[![AI-Job](https://github-readme-stats.vercel.app/api/pin/?username=yangfeng20&repo=ai-job&bg_color=0,FFC1C8,FFDAC1,FFEEDD,FFF7E6&theme=graywhite)](https://github.com/yangfeng20/ai-job)
-[![Plugin-Guide](https://github-readme-stats.vercel.app/api/pin/?username=yangfeng20&repo=idea-plugin-dev-guide&bg_color=0,77C9D4,9CD9C2,C5E1A5,E6F5D0&theme=graywhite)](https://github.com/yangfeng20/idea-plugin-dev-guide)
-[![Boss-Push](https://github-readme-stats.vercel.app/api/pin/?username=yangfeng20&repo=boss_batch_push&bg_color=0,2AA8A8,5FC2C2,A8E6CF,E3FCF7&theme=graywhite)](https://github.com/yangfeng20/boss_batch_push)
-[![Smart-Config](https://github-readme-stats.vercel.app/api/pin/?username=yangfeng20&repo=smart-config&bg_color=0,4ECDC4,7FE5D2,B4F0E3,E3FCF7&theme=graywhite)](https://github.com/yangfeng20/smart-config)
+[![AI-Job](https://github-stats-extended.vercel.app/api/pin/?username=yangfeng20&repo=ai-job&description_lines_count=2&bg_color=0,FFC1C8,FFDAC1,FFEEDD,FFF7E6&theme=graywhite)](https://github.com/yangfeng20/ai-job)
+[![Plugin-Guide](https://github-stats-extended.vercel.app/api/pin/?username=yangfeng20&repo=idea-plugin-dev-guide&description_lines_count=2&bg_color=0,77C9D4,9CD9C2,C5E1A5,E6F5D0&theme=graywhite)](https://github.com/yangfeng20/idea-plugin-dev-guide)
+[![Boss-Push](https://github-stats-extended.vercel.app/api/pin/?username=yangfeng20&repo=boss_batch_push&description_lines_count=2&bg_color=0,2AA8A8,5FC2C2,A8E6CF,E3FCF7&theme=graywhite)](https://github.com/yangfeng20/boss_batch_push)
+[![Smart-Config](https://github-stats-extended.vercel.app/api/pin/?username=yangfeng20&repo=smart-config&description_lines_count=2&bg_color=0,4ECDC4,7FE5D2,B4F0E3,E3FCF7&theme=graywhite)](https://github.com/yangfeng20/smart-config)
